@@ -1,0 +1,16 @@
+[
+  {
+    "Cep": "12245-011",
+    "Logradouro": "Avenida Doutor Adhemar de Barros",
+    "Bairro": "Jardim São Dimas",
+    "Localidade": "São José dos Campos",
+    "Uf": "SP"
+  },
+  {
+    "Cep": "12233-640",
+    "Logradouro": "Rua Maria Palmira Ferreira Ivo",
+    "Bairro": "Bosque dos Eucaliptos",
+    "Localidade": "São José dos Campos",
+    "Uf": "SP"
+  }
+]
